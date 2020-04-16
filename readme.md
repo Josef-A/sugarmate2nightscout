@@ -1,0 +1,2 @@
+# sugarmate2nightscout
+
