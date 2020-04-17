@@ -1,0 +1,27 @@
+# Configuration file for sugarmate2nightscout
+# Place this file in the user folder or in the same folder as the script
+# You can also start the script with the path  to this file as command line parameter
+
+# Sugarmate
+
+# URL to sugarmate JSON
+# sugarmate_url: http://sugarmate.io/api/v1/XXXXXX/latest.json
+sugarmate_url:
+
+# Nightscout
+
+# The url to nightscout (including https://
+# nightscout_url: https://your_ns.herokuapp.com
+nightscout_url:
+
+# API_SECRET to nightscout
+# api_secret: XXXXXXXXXXXXXXXXXX
+api_secret:
+
+# Sync settings
+# sync_phase how long from previously timestamp to next sync.
+sync_phase: 310 # [Seconds] 5 min, 10 sec
+retry_interval: 10 # 10 seconds
+
+
+
