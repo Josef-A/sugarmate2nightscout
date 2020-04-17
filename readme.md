@@ -43,7 +43,7 @@ https://sugarmate.io/
 I have not made any proper deployment routine for the Python script. You can just checkout the code from github.
 
 For simplicity I have prepared an binary file to be used in Windows.  
-That can be downloaded from XX
+That can be downloaded from https://github.com/Josef-A/sugarmate2nightscout/releases
 
 I will described how to install the binary file. But it will be the same if you use the Python code. The difference is that you run the file sync_data.py instead.
 
@@ -83,7 +83,9 @@ To work as intended you have to run it on a computer that's stays on and connect
 ### Questions, errors etc
  Please use the issue tracker on Github:
   https://github.com/Josef-A/sugarmate2nightscout/issues
-Since I done this code hastily I anticipate some bugs in the near future. Please report them.  
+  
+Since I done this code hastily I anticipate some bugs in the near future. Please report them.
+Suggestions and contributions is also welcomed.  
   
 ### Future
 The best would be if someone could implement this routine as a extension to the bridge plugin of Nightscout. Then the plugin could use normal retreive method and have this as a fallback method if the primary method doesn't work. Best would of cause be if Nightscout could handle follower. Then we do not need to go via sugarmate.
