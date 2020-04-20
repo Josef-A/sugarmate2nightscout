@@ -107,6 +107,7 @@ Things I would like to add is for example:
 * Another method to start/stop the script. Would also make the script portable to other platforms than Windows.
 * Routine that check if normal routine of Nightscout (share2bridge) starts work again.
 * Ability to handle more than one Nightscout user
+* Otimization of poll timing
 * Deploy to PyPi
 
 
