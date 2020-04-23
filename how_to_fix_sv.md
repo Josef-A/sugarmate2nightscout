@@ -55,3 +55,5 @@ Sedan är det bara att
 ## Fungerar det?
 Du får väldigt gärna meddela hur det gick. Antingen som svar på facebook på inlägget som länkade hit eller på https://github.com/nightscout/cgm-remote-monitor/issues/5608
 Speciellt viktigt att du hör av dig om det inte fungerar.
+
+   /Josef
