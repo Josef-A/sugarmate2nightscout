@@ -53,5 +53,5 @@ Sedan är det bara att
 * Logga in med ditt nya Dexcomkonto
 
 ## Fungerar det?
-Du får väldigt gärna meddela hur det gick. Antingen direkt i det här inlägget eller på https://github.com/nightscout/cgm-remote-monitor/issues/5608
+Du får väldigt gärna meddela hur det gick. Antingen som svar på facebook på inlägget som länkade hit eller på https://github.com/nightscout/cgm-remote-monitor/issues/5608
 Speciellt viktigt att du hör av dig om det inte fungerar.
