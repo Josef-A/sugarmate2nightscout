@@ -36,7 +36,7 @@ Sedan får man på nytt bjuda in alla följare som man vill ha.
 * Logga in på Heroku https://www.heroku.com/
 * Leta rätt på projektet med din Nightscout
 * Klicka på _Settings_
-* Klicka på <Reveal Config Vars>
+* Klicka på < Reveal Config Vars >
 * Ändra _BRIDGE_USER_NAME_ och _BRIDGE_PASSWORD_ så att det stämmer med det nya kontot
 * Se till att _bridge_ är med i _ENABLE_
 

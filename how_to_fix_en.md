@@ -40,7 +40,7 @@ Then you have to re-invite any followers you want.
 * Log in to Heroku https://www.heroku.com/
 * Find the project with your Nightscout
 * Click _Settings_
-* Click <Reveal Config Vars>
+* Click < Reveal Config Vars >
 * Change _BRIDGE_USER_NAME_ and _BRIDGE_PASSWORD_ to match the new account
 * Make sure _bridge_ is included in _ENABLE_
 
