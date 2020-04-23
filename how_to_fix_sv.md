@@ -4,7 +4,7 @@
 Det verkar som om Dexcom share någonstans i sina system inte klarar av att användarnamnet består av annat än vanliga bokstäver.
 
 Genom att byta användarnamn har det här löst sig för alla som försökt än så länge.
-Om det inte fungerar för dig meddela det på https://github.com/nightscout/cgm-remote-monitor/issues/5608 eller om du kan kommentera det här inlägget.
+Om det inte fungerar för dig meddela det på https://github.com/nightscout/cgm-remote-monitor/issues/5608 eller om du kan kommentera på facebookinlägg som länkat hit.
 
 ## Byta användarnamn
 Tyvärr så går det inte att byta användarnamn på ett Dexcom konto. Man måste skapa ett helt nytt konto.
