@@ -4,7 +4,7 @@
 It seems that Dexcom share somewhere in its systems is not capable of using the username other than ordinary letters.
 
 By changing the username, this has been solved for everyone who has tried so far.
-If that doesn't work for you, please report it at https://github.com/nightscout/cgm-remote-monitor/issues/5608 or if you can comment on any facebook post that linked to this site.
+If that doesn't work for you, please report it at https://github.com/nightscout/cgm-remote-monitor/issues/5608 or if you can comment on any Facebook post that linked to this site.
 
 ## Disclaimer 
 I made these instructions from a Swedish context. It might be different in your country.
@@ -20,10 +20,10 @@ Make sure to use another email for the new account. The alternative is to delete
 Make sure the new username contains only letters. It is best to stick to a-z. We know that the period sign creates problems. But we do not know what other signs there are problems with.
 
 ### Reinstall Dexcom Transmitter app
-This is how it works under Android. I guess it is similar for  IPhone.
+This is how it works under Android. I guess it is similar for IPhone.
 When you install the Dexcom G6 app, it is linked to a Dexcom account. Unfortunately, there is no way to switch accounts. What you have to do is simply uninstall the app and reinstall it.
 In principle, it is the same procedure as changing a telephone. 
-Of course, you should now log in with the new account.
+Of course, this time you should log in with the new account.
 * Write down the current Transmitter ID. You can find the ID if you look in settings in the G6 app.
 * Uninstall the G6 app
 * Reinstall the G6 app
@@ -57,7 +57,8 @@ After that, it's just to:
 * Log in with your new Dexcom account
 
 ## Is it working?
-Please let us know if this helped. Either in response to facebook on the post that linked here or at https://github.com/nightscout/cgm-remote-monitor/issues/5608
+Please let us know if this helped. Either in response to Facebook on the post that linked here or at https://github.com/nightscout/cgm-remote-monitor/issues/5608
+
 Especially important that you write something if it not works for you.
 
    / Josef
