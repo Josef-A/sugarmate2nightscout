@@ -3,6 +3,18 @@
 
 Simple script to copy glucose data from Sugarmate to Nightscout
 
+## The original problem with data from Dexcom is solved
+The problem were that the Dexcom user name contained other characters than a-z. For instance period.
+Read more about that in:
+https://github.com/nightscout/cgm-remote-monitor/issues/5608
+
+I wrote some instructions of how to change the Dexcom account. See [here](how_to_fix_en.md) or [here](how_to_fix_sv.md) for a Swedish variant.
+
+Then you do not need to use this script.
+This script will probably not be maintained. But I leave it up  here for the documentation of this problem.
+
+
+
 ## Limitations
 This is quick workaround. The code does not have proper handling of errors for example.
 Use at your own risk. Nothings guarantied.
